@@ -1,0 +1,7 @@
+C:\Users\DELL\source\repos\TareaProgra\TareaProgra\bin\Debug\TareaProgra.exe.config
+C:\Users\DELL\source\repos\TareaProgra\TareaProgra\bin\Debug\TareaProgra.exe
+C:\Users\DELL\source\repos\TareaProgra\TareaProgra\bin\Debug\TareaProgra.pdb
+C:\Users\DELL\source\repos\TareaProgra\TareaProgra\obj\Debug\TareaProgra.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\TareaProgra\TareaProgra\obj\Debug\TareaProgra.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\TareaProgra\TareaProgra\obj\Debug\TareaProgra.exe
+C:\Users\DELL\source\repos\TareaProgra\TareaProgra\obj\Debug\TareaProgra.pdb
