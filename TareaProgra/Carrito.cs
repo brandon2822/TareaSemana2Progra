@@ -8,15 +8,15 @@ namespace TareaProgra
 {
     class Carrito
     {
-        int cantArticulos;
-        double totalCarrito;
-        List<string> nombreProductos;
+        private int cantArticulos;
+        private double totalCarrito;
+        private List<string> nombreProductos;
 
         // Constructor por defecto
 
         public Carrito()
         {
-            cantArticulos = 0;
+            cantArticulos = 0; 
             totalCarrito = 0;
             nombreProductos = new List<string>();
         }

@@ -35,10 +35,11 @@ namespace TareaProgra
                             producto.mostrarInformacion();
                         }
                         Console.WriteLine("Ingrese el codigo del producto que desea agregar: ");
-                        
+                        string codigoProducto = Console.ReadLine();
+
                         foreach (Producto producto in Productos)
                         {
-                            string codigoProducto = Console.ReadLine();
+                            
                             if (codigoProducto == producto.getCodigo())
                             {
                                 Console.WriteLine("Ingrese la cantidad deseada");
@@ -53,12 +54,10 @@ namespace TareaProgra
                                     producto.reducirCantidad(cant);
                                     carrito.agregarItem(cant, producto.getPrecio(), producto.getNombre());
                                     Console.WriteLine("Producto añadido!!");
+                                    break;
                                 }
                             }
-                            else
-                            {
-                                Console.WriteLine("El codigo no pertenece a ningun producto");
-                            }
+                            
                         }
 
 
